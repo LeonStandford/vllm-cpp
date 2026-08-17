@@ -1,0 +1,1 @@
+sudo /usr/local/cuda-12.8/bin/ncu --target-processes all ./build/tiny-vllm
