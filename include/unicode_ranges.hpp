@@ -1,7 +1,8 @@
 // GENERATED FILE - do not edit by hand.
 // Unicode 15.0.0 general categories L* (letters) and N* (numbers),
 // used by the Llama 3 pre-tokenizer regex (\p{L} and \p{N} classes).
-// Regenerate with the snippet in python/gen_unicode_ranges.py
+// Regenerate by dumping unicodedata.category(chr(cp))[0] == "L" / "N" from Python
+// as sorted (first, last) codepoint ranges.
 
 #pragma once
 

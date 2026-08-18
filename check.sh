@@ -1,1 +1,0 @@
-compute-sanitizer ./build/tiny-vllm
